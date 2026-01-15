@@ -6,9 +6,9 @@
 
 ## About Me
 
-I'm a passionate software engineer with **20+ years of experience** building innovative solutions across web development, game engines, and quantitative trading tools. My journey spans from crafting enterprise SaaS applications to developing cross-platform game engines, and now empowering traders worldwide with intelligent algorithmic trading tools.
+I’m a software engineer with more than 20 years of experience building real‑world software, from large‑scale web platforms and game engines to algorithmic trading tools. I care about solving meaningful problems, writing clean code, and helping other developers grow.
 
-I believe in building software that makes a real difference—whether it's helping traders achieve efficiency through powerful automation or mentoring fellow engineers to reach their full potential.
+These days I focus on building automated trading systems that turn complexity into something traders can actually use. If it helps someone save time, ship better, or sleep easier, that’s a win in my book.
 
 ---
 
