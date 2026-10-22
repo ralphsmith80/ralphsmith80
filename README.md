@@ -56,8 +56,10 @@ Quantitative Trading →  Building tools that help algo traders automate and opt
 ## Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@quant-alchemy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/quantalchemy)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quantalchemy.io/)
+[![X](https://img.shields.io/badge/@r4lph__io-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/r4lph_io)
+[![Website](https://img.shields.io/badge/r4lph.io-0E1A24?style=for-the-badge&logo=google-chrome&logoColor=F0A35E)](https://r4lph.io)
+[![Email](https://img.shields.io/badge/hello@r4lph.io-F0A35E?style=for-the-badge&logo=maildotru&logoColor=0E1A24)](mailto:hello@r4lph.io)
+[![Quant Alchemy](https://img.shields.io/badge/Quant_Alchemy-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quantalchemy.io/)
 
 ---
 
